@@ -1,2 +1,2 @@
-# regresorius
+# Studies
 Econometrics and statistics modeling
